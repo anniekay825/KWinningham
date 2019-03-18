@@ -1,0 +1,34 @@
+.gallery .gallery-cover img {
+  width: 170px;
+}
+
+.card-action {
+  color: whitesmoke;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+.portfolio {
+  background-image: url("images/white-waves.png");
+}
+
+.categories.container {
+  vertical-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .nav-header {
+    height: 75px;
+  }
+
+  h6 {
+    font-size: 12px;
+  }
+}
+ 
+#kwPic {
+  margin-left: 3px;
+}
